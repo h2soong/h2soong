@@ -37,8 +37,8 @@ I'm songs18
 <details>
   <summary>ToolKit</summary>
 
-* m3u8-To-MP4[source code](https://github.com/songs18/m3u8_To_MP4) / [preview](https://github.com/songs18/m3u8_To_MP4)
-* SyncFolder[source code](https://github.com/songs18/SyncFolder) / [preview](https://github.com/songs18/SyncFolder)
+* m3u8-To-MP4 [source code](https://github.com/songs18/m3u8_To_MP4) / [preview](https://github.com/songs18/m3u8_To_MP4)
+* SyncFolder [source code](https://github.com/songs18/SyncFolder) / [preview](https://github.com/songs18/SyncFolder)
 
 </details>
 
@@ -46,6 +46,6 @@ I'm songs18
 <details>
   <summary>Others</summary>
 
-* Bert4TF2[source code](https://github.com/songs18/Bert4TF2) / [preview](https://github.com/songs18/Bert4TF2)
+* Bert4TF2 [source code](https://github.com/songs18/Bert4TF2) / [preview](https://github.com/songs18/Bert4TF2)
 
 </details>

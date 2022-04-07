@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 I'm songs18
 
 <p align="left">
@@ -22,7 +23,7 @@ I'm songs18
     &nbsp;
     <img src="https://github-readme-stats-ecru-tau.vercel.app/api/top-langs/?username=songs18&count_private=true&show_icons=true&layout=compact&theme=gruvbox" alt="languages" height="165">
 </p>
-
+-->
 ### projects
 
 <details>

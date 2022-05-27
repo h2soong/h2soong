@@ -40,6 +40,8 @@ I'm songs18
 
 * m3u8-To-MP4 [source code](https://github.com/songs18/m3u8_To_MP4) / [preview](https://github.com/songs18/m3u8_To_MP4)
 * SyncFolder [source code](https://github.com/songs18/SyncFolder) / [preview](https://github.com/songs18/SyncFolder)
+* PyJoplin [source code](https://github.com/songs18/PyJoplin) / [preview](https://github.com/songs18/PyJoplin)
+* UCBrowserBookmark[source code](https://github.com/songs18/UCBrowserBookmark) / [preview](https://github.com/songs18/UCBrowserBookmark)
 
 </details>
 

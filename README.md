@@ -26,29 +26,16 @@ I'm songs18
 -->
 ### projects
 
-<details>
-  <summary>PaperWithCode</summary>
-
+**PaperWithCode**
 * Embedding Compression with Right Triangle Similarity Transformations [source code](https://github.com/songs18/rtst) / [preview](https://github.com/songs18/rtst)
-* Learning Discrete Sentence Representations via Construction & Decomposition[source code](https://github.com/songs18/cd_algorithm) / [preview](https://github.com/songs18/cd_algorithm)
+* Learning Discrete Sentence Representations via Construction & Decomposition [source code](https://github.com/songs18/cd_algorithm) / [preview](https://github.com/songs18/cd_algorithm)
 
-</details>
-
-
-<details>
-  <summary>ToolKit</summary>
-
+**ToolKit**
+* FederatedCore [source code](https://github.com/songs18/FederatedCore) / [preview](https://github.com/songs18/FederatedCore)
 * m3u8-To-MP4 [source code](https://github.com/songs18/m3u8_To_MP4) / [preview](https://github.com/songs18/m3u8_To_MP4)
 * SyncFolder [source code](https://github.com/songs18/SyncFolder) / [preview](https://github.com/songs18/SyncFolder)
 * PyJoplin [source code](https://github.com/songs18/PyJoplin) / [preview](https://github.com/songs18/PyJoplin)
 * UCBrowserBookmark [source code](https://github.com/songs18/UCBrowserBookmark) / [preview](https://github.com/songs18/UCBrowserBookmark)
 
-</details>
-
-
-<details>
-  <summary>Others</summary>
-
+**Others**
 * Bert4TF2 [source code](https://github.com/songs18/Bert4TF2) / [preview](https://github.com/songs18/Bert4TF2)
-
-</details>

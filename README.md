@@ -24,11 +24,6 @@ I'm h2soong
     <img src="https://github-readme-stats-ecru-tau.vercel.app/api/top-langs/?username=songs18&count_private=true&show_icons=true&layout=compact&theme=gruvbox" alt="languages" height="165">
 </p>
 -->
-### projects
-
-**PaperWithCode**
-* Embedding Compression with Right Triangle Similarity Transformations [source code](https://github.com/songs18/rtst) / [preview](https://github.com/songs18/rtst)
-* Learning Discrete Sentence Representations via Construction & Decomposition [source code](https://github.com/songs18/cd_algorithm) / [preview](https://github.com/songs18/cd_algorithm)
 
 **ToolKit**
 * m3u8-To-MP4 [source code](https://github.com/songs18/m3u8_To_MP4) / [preview](https://github.com/songs18/m3u8_To_MP4)
